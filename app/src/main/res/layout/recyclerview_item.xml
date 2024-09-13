@@ -17,6 +17,8 @@
         app:layout_constraintTop_toTopOf="parent"
         android:layout_marginStart="10dp"
         />
+
+
     <TextView
         android:id="@+id/textview"
         android:layout_width="0dp"
@@ -31,14 +33,19 @@
         app:layout_constraintTop_toTopOf="parent"
 
         />
+
+
     <ImageButton
         android:id="@+id/imageButton"
-    android:layout_width="20dp"
-    android:layout_height="20dp"
-    android:background="@drawable/right"
-    app:layout_constraintEnd_toEndOf="parent"
-    app:layout_constraintTop_toTopOf="parent"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:background="@drawable/right"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
         android:layout_marginEnd="15dp"
+        android:contentDescription="@string/image_btn_action"
     />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+
+

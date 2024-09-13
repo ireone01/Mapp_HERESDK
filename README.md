@@ -1,3 +1,3 @@
 ### Video Demo
 
-![Video Test](video/record-test.mp4)
+![Video Test](video/record.mp4)

@@ -25,13 +25,6 @@
             </intent-filter>
         </activity>
 
-        <meta-data
-            android:name="com.here.sdk.access_key_id"
-            android:value="duZ3RIrFVbomYHBPK8Hlag" />
-        <meta-data
-            android:name="com.here.sdk.access_key_secret"
-            android:value="frAxYyn11EUeUPd7vkklmfPN31Nq_aaa4130h2Q_HUNCn6EGJQEkD3zHf2Rwwyngh_tyF44vdW8ftM5svEKKgQ" />
-
     </application>
 
 </manifest>
